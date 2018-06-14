@@ -8,4 +8,6 @@ This script is made for my model setup. Things to check for your setup:
 -Switch settings on lines 51-56
 -Data sources lines 62-68
 
+![Telemetry Screen](screen.jpg)
+
 
