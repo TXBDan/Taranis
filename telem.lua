@@ -1,6 +1,9 @@
--- This code is an adaptation of Tozes' lua script for X9D.
--- As the QX7 doesn't allow functions like pixmap and can display images, all the bmp files have been replaced by text and rectangles.
--- This script is made for my model setup. You can change it if it doesn't fit your model setup.
+-- This script is made for my model setup. Things to check:
+-- --Battery setup on lines 42-46
+-- --RSSI limits on lines 48-49
+-- --Switch settings on lines 51-56
+-- --Data sources lines 62-68
+
 
 -- function to round values to 2 decimal of precision
 function round(num, decimals)
